@@ -5,5 +5,5 @@ Flutter,
 Dart,
 HTML
 
-![d10e7b5e-d6e6-4707-91a2-724b29ebf2d6](https://user-images.githubusercontent.com/56195939/162933523-087211bb-7716-4f43-850e-b639e581a15b.jpg | width=100)
-<!-- ![d10e7b5e-d6e6-4707-91a2-724b29ebf2d6](https://user-images.githubusercontent.com/56195939/162933523-087211bb-7716-4f43-850e-b639e581a15b.jpg|height=50) -->
+
+![WhatsApp Image 2022-04-12 at 3 23 06 PM](https://user-images.githubusercontent.com/56195939/162935770-23ad2780-a260-46f9-9714-2aedb9f177b4.jpeg)
